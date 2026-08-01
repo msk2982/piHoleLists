@@ -1,0 +1,2 @@
+# Domains added below will be ignored, For example:
+# track.spe.schoolmessenger.com
